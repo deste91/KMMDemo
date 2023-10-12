@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "it.reply.webinardemo.android.androidApp-merged_res-52:/drawable_baseline_search_24.xml.flat",
+        "source": "it.reply.webinardemo.android.androidApp-main-54:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "it.reply.webinardemo.android.androidApp-merged_res-52:/drawable_baseline_catching_pokemon_24.xml.flat",
+        "source": "it.reply.webinardemo.android.androidApp-main-54:/drawable/baseline_catching_pokemon_24.xml"
+    },
+    {
+        "merged": "it.reply.webinardemo.android.androidApp-merged_res-52:/drawable_baseline_close_24.xml.flat",
+        "source": "it.reply.webinardemo.android.androidApp-main-54:/drawable/baseline_close_24.xml"
+    },
+    {
+        "merged": "it.reply.webinardemo.android.androidApp-merged_res-52:/drawable_baseline_healing_24.xml.flat",
+        "source": "it.reply.webinardemo.android.androidApp-main-54:/drawable/baseline_healing_24.xml"
+    }
+]
